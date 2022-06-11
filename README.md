@@ -1,5 +1,5 @@
  # **Hi, it's David, aka Mojito**
-## Newset profile of [@Purpl3Dev](https://github.com/Purpl3Dev/), go there to check my old repositoryes
+## This is my new account, go on [@Purpl3Dev](https://github.com/Purpl3Dev/) to check my old repositoryes
 
 
 - 👀 I’m interested in Cyber Sec
