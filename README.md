@@ -8,11 +8,7 @@
 
 ### **Reach me on:**
 
-[![c883cb55b591dc00ecdd30304a5ab52f.jpg](https://i.postimg.cc/FKSP8Kwy/c883cb55b591dc00ecdd30304a5ab52f.jpg)](https://postimg.cc/mcbNFTLk)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://files.fm/u/pdd2jtdmc">
-  <source media="(prefers-color-scheme: light)" srcset="https://files.fm/u/pdd2jtdmc">
-</picture>
+[![c883cb55b591dc00ecdd30304a5ab52f.jpg](https://i.postimg.cc/xTd6Y5WT/c883cb55b591dc00ecdd30304a5ab52f.jpg)](https://postimg.cc/Z018x8b1)
 Discord: Burrit0#5783
 Telegram: PurpleSeemsGudd
 Twitter: @SergioPadella_
