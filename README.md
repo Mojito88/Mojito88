@@ -12,7 +12,12 @@
 
 Discord: Burrit0#5783
 
+[![Telegram-Logo.png](https://i.postimg.cc/W3WJ7GSX/Telegram-Logo.png)](https://postimg.cc/ygRd1SMZ)
+
 Telegram: PurpleSeemsGudd
+
+[![Twitter-logo-II.jpg](https://i.postimg.cc/wTsshsNQ/Twitter-logo-II.jpg)](https://postimg.cc/2Vr6Yy21)
+
 Twitter: @SergioPadella_
 
 
