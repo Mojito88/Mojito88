@@ -10,7 +10,7 @@
   
  
 # **2022 Target**
-- [ ] Pubblish `SIIG`.
+- [ ] Pubblish `SBIG`.
 > pubblish the 1.0 version of my own security sistem AI
 
 - [ ] Organize collaborations.
