@@ -6,11 +6,15 @@
 - 🌱 I’m currently learning Python3
 - 💞️ I’m looking to collaborate on AI
 
+
+
 # **2022 Target**
 - [ ] Pubblish `SIIG`.
 > pubblish the 1.0 version of my own security sistem AI
 
 - [ ] Organize collaborations.
+
+
 
 
 # **Reach me on:**
