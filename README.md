@@ -1,8 +1,6 @@
 # Hi, it's David, aka Mojito
 ## Newset profile of [@Purpl3Dev](https://github.com/Purpl3Dev/), i lost my credentials so go there to check my old repositoryes
 
-- [x] #739
-- [ ] 
 
 - 👀 I’m interested in Cyber Sec
 - 🌱 I’m currently learning Python3
@@ -15,7 +13,13 @@ Telegram: PurpleSeemsGudd
 Twitter: @SergioPadella_
 
 
+# 2022 Target
+- [ ] Pubblish 'SIIG'.
+### pubblish the 1.0 version of my own security sistem AI
+
+- [ ] Organize collaborations.
+
 <!---
-Mojito88/Mojito88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Mojito/Mojito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes. SIIG
 --->
