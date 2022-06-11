@@ -10,6 +10,8 @@
   
  
 # **2022 Target**
+- [x] Starting Wi-Net project
+
 - [ ] Pubblish [`HEIMDALL`](https://github.com/Mojito88/HEIMDALL).
 > pubblish the 1.0 version of my own security sistem AI
 
