@@ -1,7 +1,5 @@
 # Hi, it's David, aka Mojito
-### Newset profile of @Purpl3Dev, i lost my credentials so go there to check my old repositoryes
- [Old profile] (https://github.com/Purpl3Dev/).
-This site was built using [GitHub Pages](https://pages.github.com/).
+### Newset profile of [@Purpl3Dev](https://github.com/Purpl3Dev/), i lost my credentials so go there to check my old repositoryes
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
