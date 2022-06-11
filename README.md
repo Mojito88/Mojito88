@@ -14,7 +14,7 @@
 > pubblish the 1.0 version of my own security sistem AI
 
 - [ ] Organize collaborations.
- 
+> looking for collab with other programmers
  
 <br />
 
