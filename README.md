@@ -24,7 +24,7 @@
 [![Telegram-Logo.png](https://i.postimg.cc/W3WJ7GSX/Telegram-Logo.png)](https://postimg.cc/ygRd1SMZ) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 [![Twitter-logo-II.jpg](https://i.postimg.cc/wTsshsNQ/Twitter-logo-II.jpg)](https://postimg.cc/2Vr6Yy21) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 
-Discord: Burrit0#5783 &nbsp; &nbsp; &nbsp; Telegram: PurpleSeemsGudd &nbsp; &nbsp; &nbsp; &nbsp; Twitter: @SergioPadella_
+Discord: Burrit0#5783 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Telegram: PurpleSeemsGudd &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Twitter: @SergioPadella_
 
 
 
