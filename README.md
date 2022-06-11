@@ -10,7 +10,7 @@
   
  
 # **2022 Target**
-- [ ] Pubblish (HEIMDALL)[https://github.com/Mojito88/HEIMDALL].
+- [ ] Pubblish [`HEIMDALL`](https://github.com/Mojito88/HEIMDALL).
 > pubblish the 1.0 version of my own security sistem AI
 
 - [ ] Organize collaborations.
