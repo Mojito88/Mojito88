@@ -6,6 +6,13 @@
 - 🌱 I’m currently learning Python3
 - 💞️ I’m looking to collaborate on AI
 
+# 2022 Target
+- [ ] Pubblish `SIIG`.
+> pubblish the 1.0 version of my own security sistem AI
+
+- [ ] Organize collaborations.
+
+
 ### **Reach me on:**
 
 [![c883cb55b591dc00ecdd30304a5ab52f.jpg](https://i.postimg.cc/xTd6Y5WT/c883cb55b591dc00ecdd30304a5ab52f.jpg)](https://postimg.cc/Z018x8b1)
@@ -21,11 +28,6 @@ Telegram: PurpleSeemsGudd
 Twitter: @SergioPadella_
 
 
-# 2022 Target
-- [ ] Pubblish `SIIG`.
-> pubblish the 1.0 version of my own security sistem AI
-
-- [ ] Organize collaborations.
 
 <!---
 Mojito/Mojito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
