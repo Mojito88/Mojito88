@@ -21,16 +21,10 @@
 # **Reach me on:**
 
 [![c883cb55b591dc00ecdd30304a5ab52f.jpg](https://i.postimg.cc/xTd6Y5WT/c883cb55b591dc00ecdd30304a5ab52f.jpg)](https://postimg.cc/Z018x8b1)
-
-Discord: Burrit0#5783
-
 [![Telegram-Logo.png](https://i.postimg.cc/W3WJ7GSX/Telegram-Logo.png)](https://postimg.cc/ygRd1SMZ)
-
-Telegram: PurpleSeemsGudd
-
 [![Twitter-logo-II.jpg](https://i.postimg.cc/wTsshsNQ/Twitter-logo-II.jpg)](https://postimg.cc/2Vr6Yy21)
 
-Twitter: @SergioPadella_
+Discord: Burrit0#5783    Telegram: PurpleSeemsGudd    Twitter: @SergioPadella_
 
 
 
