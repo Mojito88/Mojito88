@@ -1,4 +1,4 @@
-# **Hi, it's David, aka Mojito**
+ # **Hi, it's David, aka Mojito**
 ## Newset profile of [@Purpl3Dev](https://github.com/Purpl3Dev/), i lost my credentials so go there to check my old repositoryes
 
 
@@ -24,7 +24,7 @@
 [![Telegram-Logo.png](https://i.postimg.cc/W3WJ7GSX/Telegram-Logo.png)](https://postimg.cc/ygRd1SMZ)
 [![Twitter-logo-II.jpg](https://i.postimg.cc/wTsshsNQ/Twitter-logo-II.jpg)](https://postimg.cc/2Vr6Yy21)
 
-Discord: Burrit0#5783    Telegram: PurpleSeemsGudd    Twitter: @SergioPadella_
+Discord: Burrit0#5783          Telegram: PurpleSeemsGudd           Twitter: @SergioPadella_
 
 
 
