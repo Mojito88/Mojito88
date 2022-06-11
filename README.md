@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Python3
 - 💞️ I’m looking to collaborate on AI
  
- ###   
+<br />  
   
  
 # **2022 Target**
