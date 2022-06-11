@@ -14,8 +14,8 @@ Twitter: @SergioPadella_
 
 
 # 2022 Target
-- [ ] Pubblish 'SIIG'.
-### pubblish the 1.0 version of my own security sistem AI
+- [ ] Pubblish `SIIG`.
+> pubblish the 1.0 version of my own security sistem AI
 
 - [ ] Organize collaborations.
 
