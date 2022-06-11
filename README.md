@@ -12,7 +12,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="[https://files.fm/u/pdd2jtdmc]">
   <source media="(prefers-color-scheme: light)" srcset="[https://files.fm/u/pdd2jtdmc]">
-<picture>
+</picture>
 Discord: Burrit0#5783
 Telegram: PurpleSeemsGudd
 Twitter: @SergioPadella_
