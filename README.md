@@ -16,7 +16,7 @@
 - [ ] Organize collaborations.
  
  
-<br \>
+<br />
 
 # **Reach me on:**
 
