@@ -11,7 +11,7 @@
  
 # **2022 Target**
 - [x] Starting Wi-Net project
-> Useful tool to manage your wifi or ~~Others?~~
+> Encrypted chat based on tor servers
 
 - [ ] Pubblish [`HEIMDALL`](https://github.com/Mojito88/HEIMDALL).
 > pubblish the 1.0 version of my own security sistem AI
