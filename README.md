@@ -10,7 +10,7 @@
   
  
 # **2022 Target**
-- [x] Starting Wi-Net project
+- [x] Starting [`Wi-Net`](https://github.com/Mojito88/WI-NET) project
 > Encrypted chat based on tor servers
 
 - [ ] Pubblish [`HEIMDALL`](https://github.com/Mojito88/HEIMDALL).
