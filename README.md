@@ -13,7 +13,7 @@
 - [x] Starting [`Wi-Net`](https://github.com/Mojito88/WI-NET) project
 > Encrypted chat based on tor servers
 
-- [ ] Pubblish [`HEIMDALL`](https://github.com/Mojito88/HEIMDALL).
+- [ ] Pubblish `HEIMDALL`.
 > pubblish the 1.0 version of my own security sistem AI
 
 - [ ] Organize collaborations.
